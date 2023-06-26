@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.quote-display {
+	margin-bottom: 20px;
+}
+
+.timer {
+	font-size: 18px;
+	margin-top: 20px;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
